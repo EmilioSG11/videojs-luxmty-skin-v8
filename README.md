@@ -2,10 +2,10 @@
 Skin for [videojs](http://videojs.com/) newest versions 8 with dark, red and white color combination.<br>
 
 # Free demo
-Codepen [Free Demo](https://codepen.io/emiliosg11/pen/yLqzeeb) <br>
+Codepen [Free Demo](https://codepen.io/emiliosg11/pen/XWPMqWj) <br>
 
 # Full skin 
-Buy [Full Skin](https://ko-fi.com/s/edb613e555) <br>
+Buy [Full Skin](https://ko-fi.com/s/9194d0cea1) <br>
 
 ## Screenshots
 • Tablets and pc
