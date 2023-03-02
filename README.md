@@ -9,14 +9,14 @@ Buy [Full Skin](https://ko-fi.com/s/edb613e555) <br>
 
 ## Screenshots
 • Tablets and pc
-![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin/main/images/screenshots/img1.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin/main/images/screenshots/img2.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin/main/images/screenshots/img3.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin-ver8/main/images/image1.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin-ver8/main/images/image2.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin-ver8/main/images/image3.jpg)
 
 • Mobile
-![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin/main/images/screenshots/img4.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin/main/images/screenshots/img5.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin/main/images/screenshots/img6.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin-ver8/main/images/image4.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin-ver8/main/images/image5.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin-ver8/main/images/image6.jpg)
 
 # Custom error image
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin/main/images/errordisplayrawr.gif)
