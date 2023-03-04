@@ -19,4 +19,4 @@ Buy [Full Skin](https://ko-fi.com/s/9194d0cea1) <br>
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin-ver8/main/images/image6.jpg)
 
 # Custom error image
-![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin/main/images/errordisplayrawr.gif)
+![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin-v8/main/images/img7.jpg)
